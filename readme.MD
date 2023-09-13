@@ -1,2 +1,2 @@
 PROVERKA MERGE
-merge4
+merge4.
